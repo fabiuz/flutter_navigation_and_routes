@@ -1,6 +1,6 @@
 # flutter_basic_navigation_and_routes
 
-A new Flutter project.
+Um app em flutter demonstrando navigação e routa básica. Este app foi criada seguindo o tutorial disponível em: https://www.youtube.com/watch?v=RLyw-_MLLTo
 
 ## Getting Started
 
